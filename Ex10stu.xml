@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<college>
+    <student>
+        <rollno>31</rollno>
+        <name>Venmathee</name>
+        <dob>10-09-2001</dob>
+        <imark>19</imark>
+        <emark>87</emark>
+    </student>
+    <student>
+        <rollno>05</rollno>
+        <name>Vishalini</name>
+        <dob>12-08-2001</dob>
+        <imark>18</imark>
+        <emark>80</emark>
+    </student>
+    <student>
+        <rollno>24</rollno>
+        <name>Deepika</name>
+        <dob>10-11-2001</dob>
+        <imark>17</imark>
+        <emark>93</emark>
+    </student>
+    <student>
+        <rollno>11</rollno>
+        <name>Harshini</name>
+        <dob>17-11-2002</dob>
+        <imark>15</imark>
+        <emark>99</emark>
+    </student>
+    <student>
+        <rollno>45</rollno>
+        <name>Swathi</name>
+        <dob>29-05-2001</dob>
+        <imark>19</imark>
+        <emark>82</emark>
+    </student>
+    <student>
+        <rollno>33</rollno>
+        <name>Vino</name>
+        <dob>18-09-2002</dob>
+        <imark>19</imark>
+        <emark>81</emark>
+    </student>
+    <student>
+        <rollno>09</rollno>
+        <name>sangee</name> 
+        <dob>27-04-2001</dob>
+        <imark>19</imark>
+        <emark>99</emark>
+    </student>
+    <student>
+        <rollno>32</rollno>
+        <name>Divya</name>
+        <dob>08-12-2001</dob>
+        <imark>15</imark>
+        <emark>90</emark>
+    </student>
+    <student>
+        <rollno>14</rollno>
+        <name>Akshi</name>
+        <dob>27-09-2002</dob>
+        <imark>19</imark>
+        <emark>97</emark>
+    </student>
+    <student>
+        <rollno>45</rollno>
+        <name>Athika</name>
+        <dob>18-01-2001</dob>
+        <imark>18</imark>
+        <emark>79</emark>
+    </student>
+</college>
